@@ -1,3 +1,6 @@
+# Exercício 1: Construa seu primeiro Componente!
+## Este exercício tem como objetivo você reproduzir a página do google com React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
