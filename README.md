@@ -1,6 +1,8 @@
 # Exercício 1: Construa seu primeiro Componente!
 ## Este exercício tem como objetivo você reproduzir a página do google com React
 
+### link do Deploy - https://subtle-biscuit-4859e7.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
