@@ -1,0 +1,38 @@
+.Stfotter{
+    width: 100%;
+    height: 25%;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: 7.2rem;
+    
+
+    
+}
+.Stfotter footer{
+    justify-content: space-between;
+    display: flex;
+
+}
+
+.Stfotter footer div{
+ display: flex;
+ margin: 0 1em 0 0;
+ 
+
+}
+
+.Stfotter footer div p{
+ display: flex;
+ margin-left: 1em;
+}
+
+p{
+    margin-left: 1em;
+}
+
+
+
+
+
+
+
